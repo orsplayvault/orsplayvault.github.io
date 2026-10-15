@@ -1,0 +1,9 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="173" height="18" viewBox="0 0 173 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path id="Top light" d="M0 16C0 7.16344 7.16344 0 16 0H157C165.837 0 173 7.16344 173 16V18H0V16Z" fill="url(#paint0_linear_0_110)" fill-opacity="0.25"/>
+<defs>
+<linearGradient id="paint0_linear_0_110" x1="173" y1="0" x2="173" y2="18" gradientUnits="userSpaceOnUse">
+<stop stop-color="#FFF47D"/>
+<stop offset="1" stop-color="#FFF47D" stop-opacity="0"/>
+</linearGradient>
+</defs>
+</svg>

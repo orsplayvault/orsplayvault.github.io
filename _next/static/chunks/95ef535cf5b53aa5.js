@@ -1,0 +1,4 @@
+;!function(){try { var e="undefined"!=typeof globalThis?globalThis:"undefined"!=typeof global?global:"undefined"!=typeof window?window:"undefined"!=typeof self?self:{},n=(new e.Error).stack;n&&((e._debugIds|| (e._debugIds={}))[n]="f1ff0249-91d9-9a98-f9fa-c3d0166d1878")}catch(e){}}();
+(globalThis.TURBOPACK||(globalThis.TURBOPACK=[])).push(["object"==typeof document?document.currentScript:void 0,535160,e=>{"use strict";var s=e.i(143739);class n extends s.WebPlugin{async getLaunchInfo(){return{launchTimestampMs:Math.round(performance.timeOrigin),hiddenTimestampMs:null}}async setProgress(){}async hide(){}}e.s(["VaultySplashWeb",()=>n])}]);
+
+//# debugId=f1ff0249-91d9-9a98-f9fa-c3d0166d1878

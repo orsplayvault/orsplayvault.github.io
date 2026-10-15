@@ -1,0 +1,4 @@
+;!function(){try { var e="undefined"!=typeof globalThis?globalThis:"undefined"!=typeof global?global:"undefined"!=typeof window?window:"undefined"!=typeof self?self:{},n=(new e.Error).stack;n&&((e._debugIds|| (e._debugIds={}))[n]="99a85a90-2a75-2564-a251-32edfade563b")}catch(e){}}();
+(globalThis.TURBOPACK||(globalThis.TURBOPACK=[])).push(["object"==typeof document?document.currentScript:void 0,712603,e=>{"use strict";var t=e.i(143739);class i extends t.WebPlugin{async requestReview(){throw this.unimplemented("Not implemented on web.")}}e.s(["InAppReviewWeb",()=>i])}]);
+
+//# debugId=99a85a90-2a75-2564-a251-32edfade563b

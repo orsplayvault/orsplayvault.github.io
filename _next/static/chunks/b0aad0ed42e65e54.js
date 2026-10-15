@@ -1,0 +1,4 @@
+;!function(){try { var e="undefined"!=typeof globalThis?globalThis:"undefined"!=typeof global?global:"undefined"!=typeof window?window:"undefined"!=typeof self?self:{},n=(new e.Error).stack;n&&((e._debugIds|| (e._debugIds={}))[n]="438ba6d5-5ad1-2435-3036-7617e07d33a1")}catch(e){}}();
+(globalThis.TURBOPACK||(globalThis.TURBOPACK=[])).push(["object"==typeof document?document.currentScript:void 0,504039,t=>{"use strict";var i=t.i(143739);class e extends i.WebPlugin{async preload(){throw this.unimplemented("VaultyAudio is native-only")}async play(){throw this.unimplemented("VaultyAudio is native-only")}async startLoop(){throw this.unimplemented("VaultyAudio is native-only")}async stopLoop(){throw this.unimplemented("VaultyAudio is native-only")}async stopAll(){throw this.unimplemented("VaultyAudio is native-only")}}t.s(["VaultyAudioWeb",()=>e])}]);
+
+//# debugId=438ba6d5-5ad1-2435-3036-7617e07d33a1

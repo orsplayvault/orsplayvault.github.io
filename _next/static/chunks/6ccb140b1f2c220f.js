@@ -1,0 +1,4 @@
+;!function(){try { var e="undefined"!=typeof globalThis?globalThis:"undefined"!=typeof global?global:"undefined"!=typeof window?window:"undefined"!=typeof self?self:{},n=(new e.Error).stack;n&&((e._debugIds|| (e._debugIds={}))[n]="fac21635-f0d1-dfee-6fab-50486d72b47b")}catch(e){}}();
+(globalThis.TURBOPACK||(globalThis.TURBOPACK=[])).push(["object"==typeof document?document.currentScript:void 0,467655,e=>{"use strict";var s=e.i(143739);class t extends s.WebPlugin{getStatus(){return Promise.resolve({status:"authorized"})}requestPermission(){return Promise.resolve({status:"authorized"})}}e.s(["AppTrackingTransparencyWeb",()=>t])}]);
+
+//# debugId=fac21635-f0d1-dfee-6fab-50486d72b47b

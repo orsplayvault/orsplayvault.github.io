@@ -1,0 +1,13 @@
+User-Agent: *
+Allow: /
+Disallow: /profile
+Disallow: /my-challenges
+Disallow: /c/
+Disallow: /settings
+Disallow: /draft
+Disallow: /dev/
+Disallow: /reset-password
+Disallow: /store
+
+Host: https://82-0.com
+Sitemap: https://82-0.com/sitemap.xml
