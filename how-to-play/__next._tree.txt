@@ -19,4 +19,4 @@
 :HL["/_next/static/media/ffa7ca14c228762d-s.p.3f59869a.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/loader/82-logo.png","image",{"fetchPriority":"high"}]
 :HL["/loader/vaulty-studios-loader.png","image",{"fetchPriority":"high"}]
-0:{"buildId":"_yiJB0vdkS4ZXTQ0peYpa","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"how-to-play","paramType":null,"paramKey":"how-to-play","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
+0:{"buildId":"V3qhcwPE7p0suxv_dqjGF","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"how-to-play","paramType":null,"paramKey":"how-to-play","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
